@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy Luis Quispe
+# 👋 ¡Hola! Soy Luis Quispe De La Cruz
 
 🎓 Estudiante del **Instituto de Educación Superior Privada Valle Grande – Cañete**.
 
