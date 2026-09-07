@@ -1,6 +1,6 @@
 # 👋 ¡Hola! Soy Luis Quispe
 
-🎓 Estudiante del **Instituto de Educación Superior Tecnológico Público Valle Grande – Cañete**.
+🎓 Estudiante del **Instituto de Educación Superior Privada Valle Grande – Cañete**.
 
 💻 Me interesa el desarrollo web y la creación de proyectos tecnológicos. Actualmente continúo aprendiendo y mejorando mis habilidades en diferentes herramientas y tecnologías.
 
